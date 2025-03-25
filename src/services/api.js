@@ -1,7 +1,7 @@
 // src/services/api.js
 import axios from 'axios';
 
-const API_URL = 'http://localhost:8080';
+const API_URL = 'https://biltygen-backend.onrender.com/';
 
 const api = {
   // Bilty endpoints
